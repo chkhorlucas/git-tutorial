@@ -153,17 +153,14 @@ $ git add .
 $ git commit -m '*message*'
 
 $ git push *remote* *branch*
-
 ```
 
 Pull files from remote
 ```
 $ git pull *remote*
-
 ```
 
 Add remote name
 ```
 $ git remote add *name* *remote url*
-
 ```
