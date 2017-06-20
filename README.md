@@ -144,3 +144,26 @@ Fast-forward
  1 files changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 newfile.txt
 ```
+
+## Quick References
+Push files to remote
+```
+$ git add .
+
+$ git commit -m '*message*'
+
+$ git push *remote* *branch*
+
+```
+
+Pull files from remote
+```
+$ git pull *remote*
+
+```
+
+Add remote name
+```
+$ git remote add *name* *remote url*
+
+```
