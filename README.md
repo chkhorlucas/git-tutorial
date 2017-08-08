@@ -150,17 +150,17 @@ Push files to remote
 ```
 $ git add .
 
-$ git commit -m '*message*'
+$ git commit -m '<message>'
 
-$ git push *remote* *branch*
+$ git push <remote> <branch>
 ```
 
 Pull files from remote
 ```
-$ git pull *remote*
+$ git pull <remote>
 ```
 
 Add remote name
 ```
-$ git remote add *name* *remote url*
+$ git remote add <name> <remote url>
 ```
